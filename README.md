@@ -5,8 +5,11 @@
 ## 功能特性
 
 - **PDF 转图片**：将 PDF 文件转换为 PNG/JPEG 图片，支持预览和批量下载
+![img.png](image/pdf-to-image.png)
 - **PDF 转 Word**：将 PDF 文件转换为可编辑的 Word 文档（.docx）
+![img.png](image/pdf-to-word.png)
 - **Word 转 PDF**：将 Word 文档（.docx/.doc）转换为 PDF 文件
+![img.png](image/word-to-pdf.png)
 
 ## 技术栈
 
