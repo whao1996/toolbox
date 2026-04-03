@@ -7,7 +7,7 @@
 
     <groupId>com.example</groupId>
     <artifactId>toolbox</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0-SNAPSHOT</version>
     <name>toolbox</name>
 
     <parent>
@@ -92,6 +92,7 @@
     </dependencies>
 
     <build>
+        <finalName>toolbox</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
